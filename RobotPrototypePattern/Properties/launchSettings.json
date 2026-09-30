@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RobotPrototypePattern": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
